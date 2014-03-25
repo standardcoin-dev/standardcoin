@@ -1,0 +1,9 @@
+Building Standardcoin
+
+See doc/readme-qt.rst for instructions on building Standardcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Standardcoin.
+
+See doc/build-*.txt for instructions on building standardcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Standardcoin.
