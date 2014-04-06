@@ -45,13 +45,13 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile standardcoin-0.8.6.2-win32-setup.exe
+OutFile standardcoin-1.0.0.2-win32-setup.exe
 InstallDir $PROGRAMFILES\Standardcoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
-VIProductVersion 0.8.6.2
+VIProductVersion 1.0.0.2
 VIAddVersionKey ProductName Standardcoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
